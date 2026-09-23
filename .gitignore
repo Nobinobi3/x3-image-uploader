@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+*.pcap
+*.pcapng
+*.log
+packets*.js
+extracted.jpg
+test.jpeg
+test_*.py
+probe_*.py
+fix_*.py
+.DS_Store
+Thumbs.db
